@@ -1,0 +1,14 @@
+C:\Users\Lenovo\OneDrive\Desktop\Practice codes\InterestCalculator\obj\Debug\netcoreapp3.1\InterestCalculator.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Desktop\Practice codes\InterestCalculator\obj\Debug\netcoreapp3.1\InterestCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\OneDrive\Desktop\Practice codes\InterestCalculator\obj\Debug\netcoreapp3.1\InterestCalculator.AssemblyInfoInputs.cache
+C:\Users\Lenovo\OneDrive\Desktop\Practice codes\InterestCalculator\obj\Debug\netcoreapp3.1\InterestCalculator.AssemblyInfo.cs
+C:\Users\Lenovo\OneDrive\Desktop\Practice codes\InterestCalculator\obj\Debug\netcoreapp3.1\InterestCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Desktop\Practice codes\InterestCalculator\bin\Debug\netcoreapp3.1\InterestCalculator.exe
+C:\Users\Lenovo\OneDrive\Desktop\Practice codes\InterestCalculator\bin\Debug\netcoreapp3.1\InterestCalculator.deps.json
+C:\Users\Lenovo\OneDrive\Desktop\Practice codes\InterestCalculator\bin\Debug\netcoreapp3.1\InterestCalculator.runtimeconfig.json
+C:\Users\Lenovo\OneDrive\Desktop\Practice codes\InterestCalculator\bin\Debug\netcoreapp3.1\InterestCalculator.runtimeconfig.dev.json
+C:\Users\Lenovo\OneDrive\Desktop\Practice codes\InterestCalculator\bin\Debug\netcoreapp3.1\InterestCalculator.dll
+C:\Users\Lenovo\OneDrive\Desktop\Practice codes\InterestCalculator\bin\Debug\netcoreapp3.1\InterestCalculator.pdb
+C:\Users\Lenovo\OneDrive\Desktop\Practice codes\InterestCalculator\obj\Debug\netcoreapp3.1\InterestCalculator.dll
+C:\Users\Lenovo\OneDrive\Desktop\Practice codes\InterestCalculator\obj\Debug\netcoreapp3.1\InterestCalculator.pdb
+C:\Users\Lenovo\OneDrive\Desktop\Practice codes\InterestCalculator\obj\Debug\netcoreapp3.1\InterestCalculator.genruntimeconfig.cache
