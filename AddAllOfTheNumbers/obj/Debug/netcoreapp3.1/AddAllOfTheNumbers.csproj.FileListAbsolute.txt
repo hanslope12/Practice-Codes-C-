@@ -1,0 +1,14 @@
+C:\Users\Lenovo\OneDrive\Desktop\Practice codes\AddAllOfTheNumbers\obj\Debug\netcoreapp3.1\AddAllOfTheNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\OneDrive\Desktop\Practice codes\AddAllOfTheNumbers\obj\Debug\netcoreapp3.1\AddAllOfTheNumbers.AssemblyInfoInputs.cache
+C:\Users\Lenovo\OneDrive\Desktop\Practice codes\AddAllOfTheNumbers\obj\Debug\netcoreapp3.1\AddAllOfTheNumbers.AssemblyInfo.cs
+C:\Users\Lenovo\OneDrive\Desktop\Practice codes\AddAllOfTheNumbers\obj\Debug\netcoreapp3.1\AddAllOfTheNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Desktop\Practice codes\AddAllOfTheNumbers\bin\Debug\netcoreapp3.1\AddAllOfTheNumbers.exe
+C:\Users\Lenovo\OneDrive\Desktop\Practice codes\AddAllOfTheNumbers\bin\Debug\netcoreapp3.1\AddAllOfTheNumbers.deps.json
+C:\Users\Lenovo\OneDrive\Desktop\Practice codes\AddAllOfTheNumbers\bin\Debug\netcoreapp3.1\AddAllOfTheNumbers.runtimeconfig.json
+C:\Users\Lenovo\OneDrive\Desktop\Practice codes\AddAllOfTheNumbers\bin\Debug\netcoreapp3.1\AddAllOfTheNumbers.runtimeconfig.dev.json
+C:\Users\Lenovo\OneDrive\Desktop\Practice codes\AddAllOfTheNumbers\bin\Debug\netcoreapp3.1\AddAllOfTheNumbers.dll
+C:\Users\Lenovo\OneDrive\Desktop\Practice codes\AddAllOfTheNumbers\bin\Debug\netcoreapp3.1\AddAllOfTheNumbers.pdb
+C:\Users\Lenovo\OneDrive\Desktop\Practice codes\AddAllOfTheNumbers\obj\Debug\netcoreapp3.1\AddAllOfTheNumbers.dll
+C:\Users\Lenovo\OneDrive\Desktop\Practice codes\AddAllOfTheNumbers\obj\Debug\netcoreapp3.1\AddAllOfTheNumbers.pdb
+C:\Users\Lenovo\OneDrive\Desktop\Practice codes\AddAllOfTheNumbers\obj\Debug\netcoreapp3.1\AddAllOfTheNumbers.genruntimeconfig.cache
+C:\Users\Lenovo\OneDrive\Desktop\Practice codes\AddAllOfTheNumbers\obj\Debug\netcoreapp3.1\AddAllOfTheNumbers.csproj.AssemblyReference.cache
